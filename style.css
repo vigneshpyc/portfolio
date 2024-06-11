@@ -7,7 +7,7 @@ nav{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    background-color: cyan;
+    background-color: red;
     z-index: 1;
 }
 .nav-bar1{
