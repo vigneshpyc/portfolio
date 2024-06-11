@@ -42,8 +42,7 @@ a{
     color: aliceblue;
     padding: 40px;
     margin-top: 30px; 
-    position: relative;
-    
+    position: relative;   
 }
 .namecontainer{
     padding: 20px;
@@ -94,12 +93,10 @@ hr{
     border-radius: 30px; 
 }
 .abtcontent1:hover{
-    
     opacity: 1;
     box-shadow: -3px 0px 14px 10px rgba(0,255,255,0.85);
     font-size: 16px;
     transform: translateY(-20px);
-
 }
 .table{
     border-collapse: collapse;
@@ -107,8 +104,7 @@ hr{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin: 25px;
-    
+    margin: 25px;   
 }
 td,th{
     padding: 10px;
@@ -139,7 +135,6 @@ tr{
     box-shadow: -3px 0px 14px 10px rgba(0,255,255,0.85);
     font-size: 16px;
     transform: translateY(-20px);
-
 }
 .PI{
     color: aliceblue;
@@ -160,8 +155,6 @@ tr{
     box-shadow: -3px 0px 14px 10px rgba(0,255,255,0.85);
     font-size: 16px;
     transform: translateY(-20px);
-
-
 }
 .education{
     transition: all 1s;
@@ -187,9 +180,7 @@ tr{
     box-shadow: -3px 0px 14px 10px rgba(0,255,255,0.85);
     font-size: 16px;
     transform: translateY(-20px);
-
 }
-
 nav{
     position: sticky;
     top: 0px;
@@ -208,7 +199,6 @@ nav h1{
 .designing:hover{
     opacity: 1;
     box-shadow: -3px 0px 14px 10px rgba(0,255,255,0.85);
-
 }
 #design{
     display: flex;
@@ -247,7 +237,6 @@ nav h1{
 .footer-box-1{
     max-width: 50%;
     overflow: hidden;
-
 }
 .footer-box-2{
     display: flex;
@@ -273,7 +262,6 @@ nav h1{
     z-index: -2;
     box-shadow: 3px 0px 3px 3px rgba(0,255,255,0.85);
     opacity: .5;
-
 }
 .design{
     position: absolute;
@@ -319,6 +307,9 @@ nav h1{
     .footer-box-1{
         max-width: 100%;
         overflow: hidden;
+    }
+    .PI{
+        font-size: 15px;
     }
 }
 @media screen and (max-width:600px) {
