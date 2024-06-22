@@ -372,5 +372,8 @@ nav h1{
    .shape{
     display: none;
    }
+   .working{
+    display: none;
+   }
   
 }
