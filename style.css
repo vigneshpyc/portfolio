@@ -273,12 +273,12 @@ nav h1{
     z-index: -3;
 }
 .working img{
-   width: 400px;
-   height: 400px;
-   margin-left: 100px;
-   margin-top: 0;  
-}
-@keyframes backdesign 
+    width: 400px;
+    height: 400px;
+    margin-left: 10px;
+    margin-top: 0;  
+ }
+ @keyframes backdesign 
 {
     from{
         transform: translateY(-10px) rotate(-360deg);
