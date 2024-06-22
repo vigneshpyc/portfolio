@@ -273,9 +273,11 @@ nav h1{
     z-index: -3;
 }
 .working img{
-    width: 400px;
-    height: 400px;
-    margin-left: 10px;
+    position: absolute;
+    top: 0px;
+    width: 450px;
+    height: 450px;
+    margin-left: 150px;
     margin-top: 0;  
  }
  @keyframes backdesign 
