@@ -1,5 +1,6 @@
 
 body{
+    
     background-color: rgb(34, 32, 32);
 
 }
@@ -271,7 +272,12 @@ nav h1{
     display: flex;
     z-index: -3;
 }
-
+.working img{
+   width: 400px;
+   height: 400px;
+   margin-left: 100px;
+   margin-top: 0;  
+}
 @keyframes backdesign 
 {
     from{
