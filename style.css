@@ -280,6 +280,7 @@ nav h1{
     margin-left: 150px;
     margin-top: 0;  
  }
+ 
  @keyframes backdesign 
 {
     from{
@@ -321,6 +322,7 @@ nav h1{
         font-size: 15px;
     }
 }
+
 @media screen and (max-width:600px) {
     *{
         opacity: 1;
