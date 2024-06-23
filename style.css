@@ -231,7 +231,7 @@ nav h1{
     height: auto;
     background-color: cyan;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     flex-wrap: wrap;
     padding: 1rem;
 }
@@ -242,7 +242,8 @@ nav h1{
 .footer-box-2{
     display: flex;
     flex-wrap: nowrap;
-    justify-content: space-between;
+   
+    flex-direction: column;
 }
 .namecontainer-footer{
     font-size: 15px;
