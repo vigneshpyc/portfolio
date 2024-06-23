@@ -280,7 +280,41 @@ nav h1{
     margin-left: 150px;
     margin-top: 0;  
  }
- 
+ .querry_form{
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+textarea{
+    height: 100px;
+    width: 300px;
+    border-radius: 10px;
+    background-color: rgb(238, 246, 244);
+    margin: 10px;
+    outline-color: cyan;
+
+}
+.querry_form input{
+    margin: 10px;
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(238, 246, 244);
+    outline-color: cyan;
+   
+}
+.send_querry{
+    background-color: cyan;
+    border: none;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    padding: 5px;
+    border-radius: 40%;
+    font-weight: bold;
+}
  @keyframes backdesign 
 {
     from{
